@@ -11,7 +11,7 @@ Poetry
 3. Run `poetry install` to install all the dependencies.
 4. Run `poetry run python -m wiki_searcher.agent` to run the script.
 
-## dependencies explained
+## Python dependencies explained
 
 `poetry add langchain openai google-search-results numexpr python-dotenv wikipedia`
 
